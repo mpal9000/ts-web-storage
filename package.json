@@ -149,7 +149,7 @@
     "npm": "^7.3.0"
   },
   "dependencies": {
-    "@mpal9000/ts-core": "../ts-core"
+    "@mpal9000/ts-core": "^0.1.0"
   },
   "peerDependencies": {
     "tslib": "^2.1.0"
